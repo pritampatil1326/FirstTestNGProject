@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="170353" started-at="2022-09-15T14:37:21 IST" finished-at="2022-09-15T14:40:11 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="170353" started-at="2022-09-15T14:37:21 IST" finished-at="2022-09-15T14:40:11 IST">
+      <class name="com.myecom.testcases.IndexPageTest">
+        <test-method status="PASS" signature="readProp()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="readProp" is-config="true" duration-ms="15" started-at="2022-09-15T14:37:21 IST" finished-at="2022-09-15T14:37:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readProp -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="setUp" is-config="true" duration-ms="18504" started-at="2022-09-15T14:37:21 IST" finished-at="2022-09-15T14:37:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnSignIn()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="ClickOnSignIn" duration-ms="11349" started-at="2022-09-15T14:37:40 IST" finished-at="2022-09-15T14:37:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSignIn -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="tearDown" is-config="true" duration-ms="1276" started-at="2022-09-15T14:37:51 IST" finished-at="2022-09-15T14:37:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="setUp" is-config="true" duration-ms="15739" started-at="2022-09-15T14:37:52 IST" finished-at="2022-09-15T14:38:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="test" duration-ms="0" started-at="2022-09-15T14:38:08 IST" finished-at="2022-09-15T14:38:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="tearDown" is-config="true" duration-ms="822" started-at="2022-09-15T14:38:08 IST" finished-at="2022-09-15T14:38:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="setUp" is-config="true" duration-ms="16872" started-at="2022-09-15T14:38:09 IST" finished-at="2022-09-15T14:38:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateLogo()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="validateLogo" duration-ms="143" started-at="2022-09-15T14:38:26 IST" finished-at="2022-09-15T14:38:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="tearDown" is-config="true" duration-ms="678" started-at="2022-09-15T14:38:26 IST" finished-at="2022-09-15T14:38:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="setUp" is-config="true" duration-ms="23807" started-at="2022-09-15T14:38:27 IST" finished-at="2022-09-15T14:38:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateSearchBoxClick()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="validateSearchBoxClick" duration-ms="88" started-at="2022-09-15T14:38:50 IST" finished-at="2022-09-15T14:38:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchBoxClick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="tearDown" is-config="true" duration-ms="682" started-at="2022-09-15T14:38:50 IST" finished-at="2022-09-15T14:38:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="setUp" is-config="true" duration-ms="22918" started-at="2022-09-15T14:38:51 IST" finished-at="2022-09-15T14:39:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateSearchBoxText()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="validateSearchBoxText" duration-ms="520" started-at="2022-09-15T14:39:14 IST" finished-at="2022-09-15T14:39:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchBoxText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="tearDown" is-config="true" duration-ms="687" started-at="2022-09-15T14:39:15 IST" finished-at="2022-09-15T14:39:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="setUp" is-config="true" duration-ms="26873" started-at="2022-09-15T14:39:15 IST" finished-at="2022-09-15T14:39:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatetitle()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="validatetitle" duration-ms="16" started-at="2022-09-15T14:39:42 IST" finished-at="2022-09-15T14:39:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="tearDown" is-config="true" duration-ms="710" started-at="2022-09-15T14:39:42 IST" finished-at="2022-09-15T14:39:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="setUp" is-config="true" duration-ms="22718" started-at="2022-09-15T14:39:43 IST" finished-at="2022-09-15T14:40:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validatetshirtclick()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="validatetshirtclick" duration-ms="5150" started-at="2022-09-15T14:40:06 IST" finished-at="2022-09-15T14:40:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatetshirtclick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.myecom.testcases.IndexPageTest@51c8530f]" name="tearDown" is-config="true" duration-ms="676" started-at="2022-09-15T14:40:11 IST" finished-at="2022-09-15T14:40:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.myecom.testcases.IndexPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
