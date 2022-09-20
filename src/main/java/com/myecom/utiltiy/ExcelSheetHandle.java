@@ -16,7 +16,7 @@ public class ExcelSheetHandle extends BaseClass {
 	public static FileInputStream fis;
 	
 	public static FileInputStream getExcelFile() throws FileNotFoundException {
-		fis= new FileInputStream(projectPath+"src//main//resources//TestData//MyProject.xlsx");
+		fis= new FileInputStream("C:\\Users\\lenovo\\Desktop\\selenium\\MyProject.xlsx");
 		return fis;
 	}//Access file sheet from folder
 	

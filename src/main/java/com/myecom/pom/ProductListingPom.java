@@ -20,7 +20,6 @@ public class ProductListingPom extends BaseClass
 	}
 
 	public void clickShirt() {
-		// TODO Auto-generated method stub
 		tshirt.click();
 	}
 	
